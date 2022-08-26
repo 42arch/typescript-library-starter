@@ -1,13 +1,13 @@
-
 const add = (a: number, b: number) => {
-  return a + b
-}
+  return a + b;
+};
 
 const multiply = (a: number, b: number) => {
-  return a * b
-}
+  return a * b;
+};
 
-export {
-  add,
-  multiply
-}
+const t = new Blob();
+
+console.log('sssss');
+
+export { add, multiply };
