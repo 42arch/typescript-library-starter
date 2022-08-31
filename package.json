@@ -9,10 +9,13 @@
       "import": "./dist/index.js"
     }
   },
-  "keywords": [],
+  "keywords": [
+    "TypeScript"
+  ],
   "author": "REND42",
   "license": "MIT",
   "repository": "https://github.com/REND42/typescript-library-starter",
+  "homepage": "https://github.com/REND42/typescript-library-starter",
   "bugs": "https://github.com/REND42/typescript-library-starter/issues",
   "files": [
     "dist",
