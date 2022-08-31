@@ -1,6 +1,6 @@
 {
   "name": "@rend42/typescript-library-starter",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Boilerplate for create TypeScript library",
   "main": "index.js",
   "exports": {
