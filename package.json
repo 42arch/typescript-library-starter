@@ -1,6 +1,6 @@
 {
-  "name": "typescript-library-starter",
-  "version": "0.0.0",
+  "name": "@42arch/ts-lib-starter",
+  "version": "0.1.0",
   "description": "Boilerplate for create TypeScript library",
   "main": "index.js",
   "exports": {
