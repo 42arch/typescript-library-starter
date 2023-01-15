@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "@42arch/ts-lib-starter",
   "version": "0.1.0",
+=======
+  "name": "@rendan/typescript-library-starter",
+  "version": "0.0.2",
+>>>>>>> e6a5c6922166144eeb57ffbb42ce75c0ae8a45a0
   "description": "Boilerplate for create TypeScript library",
   "main": "index.js",
   "exports": {
@@ -9,10 +14,13 @@
       "import": "./dist/index.js"
     }
   },
-  "keywords": [],
+  "keywords": [
+    "TypeScript"
+  ],
   "author": "REND42",
   "license": "MIT",
   "repository": "https://github.com/REND42/typescript-library-starter",
+  "homepage": "https://github.com/REND42/typescript-library-starter",
   "bugs": "https://github.com/REND42/typescript-library-starter/issues",
   "files": [
     "dist",
@@ -39,6 +47,11 @@
     "tsup": "^6.2.1",
     "typescript": "^4.7.4",
     "vitest": "^0.21.0"
+<<<<<<< HEAD
   },
   "packageManager": "pnpm@7.24.2"
 }
+=======
+  }
+}
+>>>>>>> e6a5c6922166144eeb57ffbb42ce75c0ae8a45a0
